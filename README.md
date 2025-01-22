@@ -7,10 +7,10 @@
 - ⚡ Fun fact: ...I can play the clarinet. 
 
 
-(H1)About ME
-(H2) My Interests
+(#)About ME
+(##) My Interests
 I enjoy traveling and spending time with my family. 
-(H2) These are two websites that I find interesting. 
+(##) These are two websites that I find interesting. 
   [Macys] (https://macys.com)  - I find Macys interesting because they have great deals and I love to shop. 
   [CNN]  (https://cnn.com) - I enjoy watching CNN beauce I enjoy the reporting from the news reporters. 
 
